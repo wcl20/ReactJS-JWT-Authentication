@@ -25,3 +25,5 @@ Start React app in another terminal
 yarn start
 ```
 The webpage should be running on [http://localhost:3000](http://localhost:3000).
+
+Use FireFox Browser. Chrome does not support CORS cookies for localhost.
